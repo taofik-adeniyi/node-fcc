@@ -3,7 +3,7 @@
   "author": "Taofik Adeniyi",
   "description": "A project that does something awesome",
   "keywords": [ "descriptive", "related", "words", "freecodecamp" ],
-  "licence": [ "MIT", "BSD" ],
+  "licence":  "BSD",
   "dependencies": {
     "express": "^4.14.0"
   },
