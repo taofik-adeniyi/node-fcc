@@ -1,3 +1,19 @@
 {
-"author": "Jane Doe",
+  "name": "node-fcc",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taofik-adeniyi/node-fcc.git"
+  },
+  "author": "Taofik Adeniyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taofik-adeniyi/node-fcc/issues"
+  },
+  "homepage": "https://github.com/taofik-adeniyi/node-fcc#readme"
 }
