@@ -1,14 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.17.1"
 	},
+	"author": "Adeniyi Taofik",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/taofik-adeniyi/node-fcc"
 	}
 }
